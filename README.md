@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Pyspark Project<br><br>🌱 I’m currently learning Pyspark, Airflow, AWS<br>
+Hi 👋, I'm Mootez<br><br>🔭 I’m currently working on Python Pyspark Project<br><br>🌱 I’m currently learning Pyspark, Airflow, AWS<br>
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mouutz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
