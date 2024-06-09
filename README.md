@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mootez</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on **Java Spring prject**
+- 🔭 I’m currently working on **Python Pyspark Project**
 
-- 👯 I’m looking to collaborate on **Spring boot**
+- 👯 I’m looking to collaborate on **Pyspark AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
